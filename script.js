@@ -1,5 +1,5 @@
 // File: script.js
-// Desc: This file shows a few algorithms
+// Desc: This file shows how to make objects and manipulate properties
 // Author: Keegan Hughes
 // Date: 10/10/2025
 // Modified: 24/10/2025
