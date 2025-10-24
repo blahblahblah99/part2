@@ -1,3 +1,9 @@
+// File: script.js
+// Desc: This file shows a few algorithms
+// Author: Keegan Hughes
+// Date: 08/08/2025
+// Modified: 05/09/2025
+
 // create the myMovie object and log it out
 let myMovie = {title:"The longest day", year:1964};
 console.log(myMovie);
